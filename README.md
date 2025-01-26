@@ -19,8 +19,6 @@ This app was created to help me decide the best times to walk my dog based on th
 - **Facebook Integration**: Facebook API (requires environment variables)
 - **Date and Time Handling**: `datetime` module for managing and formatting dates
 
-## Installation
-
 ### Prerequisites
 
 1. Set up a Facebook account and create an app on the [Facebook Developer platform](https://developers.facebook.com/) to generate a token.
